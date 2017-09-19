@@ -28,6 +28,13 @@
     testLab.text =text;
 }
 
+- (void)testGitTower{
+    NSLog(@"updata_01");
+}
+
+
+
+
 
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {
     [super setSelected:selected animated:animated];
